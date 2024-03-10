@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Khushi-Machhi
-- 👀 I’m interested in learning new things
+- 👀 Student at Parul University
 - 🌱 I’m currently learning WEBD and DSA
 
 <!---
